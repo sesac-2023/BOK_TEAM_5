@@ -22,7 +22,11 @@ Text Mining: The Case of South Korea 논문 구현 프로젝트로 뉴스기사,
 
 
 ## module 설명
-- 
+- BOK_Naive Bayes Classifier.ipynb : NBC 모델을 이용하여 감정분석하는 모듈
+- BOK_ngram2vec.ipynb : Ngram2vec 모델을 이용하여 감정분석하는 모듈
+- MPB_crawling.py : 금융통화위원회 의사록을 크롤링하는 모듈
+- crawl_edaily.py : '금리'로 검색했을 때, 나오는 뉴스 크롤링하는 모듈
+- word_cloud.py : 워드 클라우드로 시각화하는 모듈
 
 
 ## 참고자료
