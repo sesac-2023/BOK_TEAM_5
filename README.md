@@ -11,22 +11,28 @@ Text Mining: The Case of South Korea 논문 구현 프로젝트로 뉴스기사,
 
 <img src="https://github.com/sesac-finance/NEWS_TEAM_3/assets/138412359/a40eda8a-db82-4953-8f0d-4ab7f60a46c9" width="800" height="300"/>
 
-## 🤼‍♂️ 팀명 : BOK_TEAM_5
-- 김세영 : ssss6820@naver.com
-- 정준화 : behappy_jh@naver.com
-- 이성현 : lsh3215013@naver.com
-- 박상민 : psm6320@naver.com
-## <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 팀주소
-- https://www.notion.so/b8a76cca45c847e3a0e80acc198e2c83
-
-
 
 ## module 설명
 - BOK_Naive Bayes Classifier.ipynb : NBC 모델을 이용하여 감정분석하는 모듈
 - BOK_ngram2vec.ipynb : Ngram2vec 모델을 이용하여 감정분석하는 모듈
 - MPB_crawling.py : 금융통화위원회 의사록을 크롤링하는 모듈
-- crawl_edaily.py : '금리'로 검색했을 때, 나오는 뉴스 크롤링하는 모듈
+- call_rate_crawler.py : 콜금리 월단위로 크롤링하는 모듈
+- crawl_edaily.py : 이데일리에서 '금리'로 검색했을 때, 나오는 뉴스 크롤링하는 모듈
+- infomax_crawler.py : 연합인포맥스에서 '금리'로 검색했을 때, 나오는 뉴스 크롤링하는 모듈
+- naver_stock.py : 네이버 채권분석 리포트 크롤링하는 모듈
 - word_cloud.py : 워드 클라우드로 시각화하는 모듈
+
+
+
+## <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 팀주소
+- https://www.notion.so/b8a76cca45c847e3a0e80acc198e2c83
+
+
+## 🤼‍♂️ 팀명 : BOK_TEAM_5
+- 김세영 : ssss6820@naver.com
+- 정준화 : behappy_jh@naver.com
+- 이성현 : lsh3215013@naver.com
+- 박상민 : psm6320@naver.com
 
 
 ## 참고자료
@@ -51,5 +57,7 @@ Text Mining: The Case of South Korea 논문 구현 프로젝트로 뉴스기사,
    
 
 - **Development**
+    - <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
     - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-   
+    - <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+    
