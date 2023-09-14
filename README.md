@@ -8,6 +8,7 @@ Text Mining: The Case of South Korea 논문 구현 프로젝트로 뉴스기사,
 <img src="https://github.com/sesac-2023/BOK_TEAM_5/assets/138412359/3b761292-73e5-492e-8d58-b95f506bc56f" width="800" height="300"/>
 
 
+
 ## 🗓️ 프로젝트 기간 
 2023년 08월 30일(수) ~ 2023년 09월 08일(금)
 
