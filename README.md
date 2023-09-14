@@ -4,8 +4,8 @@
  Deciphering Monetary Policy Board Minutes with
 Text Mining: The Case of South Korea 논문 구현 프로젝트로 뉴스기사, 채권분석리포트를 크롤링해 텍스트 데이터를 얻고 데이터를 자연어 처리, 토픽 모델링 과정을 거쳐 감정 분석을 진행합니다. 이를 통해 머신 러닝 모델에 학습시켜 다음 금리의 방향성을 예측합니다.
 
-<img src="https://github.com/sesac-2023/BOK_TEAM_5/assets/138412359/1712fcd3-7b2a-4447-ae08-d521b7a2b4b2" width="800" height="300"/>
-<img src="https://github.com/sesac-2023/BOK_TEAM_5/assets/138412359/3b761292-73e5-492e-8d58-b95f506bc56f" width="800" height="300"/>
+<img src="https://github.com/sesac-2023/BOK_TEAM_5/assets/138412359/1712fcd3-7b2a-4447-ae08-d521b7a2b4b2" width="800" height="400"/>
+<img src="https://github.com/sesac-2023/BOK_TEAM_5/assets/138412359/3b761292-73e5-492e-8d58-b95f506bc56f" width="800" height="400"/>
 
 
 
